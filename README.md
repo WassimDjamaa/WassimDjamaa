@@ -3,7 +3,7 @@
 
 <!--**WassimDjamaa/WassimDjamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Je suis Wassim Djamaa, jeune étudiant passionné et souhaitant montée en compétence sur les nouvelles technologies.
+Je suis Wassim Djamaa, jeune étudiant en informatique passionné et souhaitant montée en compétence sur les nouvelles technologies.
 
 Développeur Full-Stack dans la relation client et étudiant en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
 
