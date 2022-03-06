@@ -12,7 +12,7 @@ Développeur Full-Stack dans la relation client et étudiant en Master I2L Infor
 - Auto-formation sur du GraphQL / react native
 - Développemenent d'un projet en symfony permettant de repondre à un questionnaire avec des réponses à choix multiples
 
-### Technologies utilisées ⚙️
+### Technologies utilisées 👨🏻‍💻
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
