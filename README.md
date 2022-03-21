@@ -3,14 +3,15 @@
 
 <!--**WassimDjamaa/WassimDjamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Je suis Wassim Djamaa, jeune étudiant en informatique passionné et souhaitant montée en compétence sur les nouvelles technologies.
+Je suis Wassim Djamaa !
 
-Développeur Full-Stack dans la relation client et étudiant en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
+Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance. Je souhaiterais monter en compétences sur les nouvelles technologies.
 
 ### Mes projets personnels 🏗
 
-- Auto-formation sur du GraphQL / react native
+- Auto-formation sur du GraphQL / React et React native
 - Développemenent d'un projet en symfony permettant de repondre à un questionnaire avec des réponses à choix multiples
+- Création d'API REST avec le framework SpringBoot
 
 ### Technologies utilisées 👨🏻‍💻
 
