@@ -13,7 +13,7 @@ Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parco
 - Développemenent d'un projet en symfony permettant de repondre à un questionnaire avec des réponses à choix multiples
 - Création d'API REST avec le framework SpringBoot
 
-### Technologies utilisées 👨🏻‍💻
+### Langages et technologies utilisées 👨🏻‍💻
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
