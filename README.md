@@ -39,8 +39,4 @@ Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parco
   <img align="left" alt="Djamaa Wassim | GitLab" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://www.facebook.com/wassim.djamaa.737" rel="nofollow">
-  <img align="left" alt="Djamaa Wassim | Facebook" width="32"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;">
-</a>
-
 ![](https://komarev.com/ghpvc/?username=WassimDjamaa)
