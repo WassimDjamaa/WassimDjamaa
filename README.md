@@ -9,7 +9,7 @@ Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parco
 
 ### Mes projets personnels 🏗
 
-- Auto-formation sur du GraphQL / React et React native
+- Auto-formation sur du VueJS / GraphQL
 - Développemenent d'un projet en symfony permettant de repondre à un questionnaire avec des réponses à choix multiples
 - Création d'API REST avec le framework SpringBoot
 
