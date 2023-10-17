@@ -16,13 +16,14 @@ Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parco
 ### Langages et technologies utilisées 👨🏻‍💻
 
 <p align="left">
+  <img src="https://github.com/WassimDjamaa/WassimDjamaa/assets/56625264/451dd764-ff68-4389-b12b-9bdcf40c7e77" alt="git" width="32" height="32"/>
+
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="34" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
 </p>
 
 
