@@ -5,7 +5,7 @@
 
 Je suis Wassim Djamaa !
 
-Développeur Full-Stack à Armatis et étudiant en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance. Je souhaiterais monter en compétences sur les nouvelles technologies du web.
+Diplômé du Master informatique I2L (Ingénierie du Logiciel Libre) et Développeur Full-Stack. Je souhaiterais monter en compétences sur les nouvelles technologies du web.
 
 ### Mes projets personnels 🏗
 
